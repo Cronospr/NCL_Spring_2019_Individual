@@ -4,7 +4,6 @@ from Crypto.Cipher import ARC4
 import numpy
 import itertools
 
-
 #Cyber Command
 #Our officers have obtained an encrypted message. See if you can decode it. We believe it's using an RC4 with a 4-character password.
 #1:57:15 pm
